@@ -1,0 +1,408 @@
+.version.keichan_works /* version checker */
+{
+	color: #00001F;
+	background-color: #3A11CF;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1000px;
+	min-height: 892.9862201156225px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	width: 0.01px;/* should not cover content below */
+}
+
+#pu12696
+{
+	width: 0.01px;
+	padding-bottom: 1885px;
+	margin-left: -491px;
+}
+
+#u12696
+{
+	z-index: 2;
+	width: 2002px;
+	position: fixed;
+	top: 0px;
+	left: 50%;
+	margin-left: -991px;
+}
+
+#u12516
+{
+	z-index: 6;
+	width: 1145px;
+	height: 1885px;
+	position: fixed;
+	top: 0px;
+	left: -83px;
+}
+
+#pu13625
+{
+	width: 0.01px;
+	padding-bottom: 6px;
+	margin-left: -58px;
+	margin-top: -1800px;
+}
+
+#u13625
+{
+	z-index: 10;
+	width: 768px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 53px;
+	left: 293px;
+}
+
+#u13169
+{
+	z-index: 12;
+	width: 337px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 2px;
+}
+
+#u13169_img
+{
+	margin: -36px -12px -36px -10px;
+}
+
+#u13163-4
+{
+	z-index: 14;
+	width: 67px;
+	min-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 346px;
+}
+
+#u13163-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 67px;
+	margin: 66px -10000px 0px 0px;
+}
+
+#u13164-4
+{
+	z-index: 18;
+	width: 118px;
+	min-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 439px;
+}
+
+#u13164-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 118px;
+	margin: 66px -10000px 0px 0px;
+}
+
+#u13168-4
+{
+	z-index: 22;
+	width: 91px;
+	min-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 583px;
+}
+
+#u13168-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 91px;
+	margin: 66px -10000px 0px 0px;
+}
+
+#u13165-4
+{
+	z-index: 26;
+	width: 90px;
+	min-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 699px;
+}
+
+#u13165-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 90px;
+	margin: 66px -10000px 0px 0px;
+}
+
+#u13166-4
+{
+	z-index: 30;
+	width: 112px;
+	min-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 815px;
+}
+
+#u13166-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 112px;
+	margin: 66px -10000px 0px 0px;
+}
+
+#u13167-4
+{
+	z-index: 34;
+	width: 55px;
+	min-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 953px;
+}
+
+#u13167-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 55px;
+	margin: 66px -10000px 0px 0px;
+}
+
+#u13498
+{
+	z-index: 7;
+	width: 329px;
+	background-color: transparent;
+	margin-left: 613px;
+	top: -1624px;
+	margin-bottom: -50px;
+	position: relative;
+}
+
+#u13440
+{
+	z-index: 38;
+	width: 884px;
+	background-color: transparent;
+	margin-left: 58px;
+	top: -1565px;
+	margin-bottom: -7px;
+	position: relative;
+}
+
+#pu12519
+{
+	width: 0.01px;
+	margin-left: -70px;
+	margin-top: -1512px;
+}
+
+#u12519
+{
+	z-index: 9;
+	width: 220px;
+	min-height: 23px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 116px;
+}
+
+#u13439
+{
+	z-index: 40;
+	width: 870px;
+	height: 131px;
+	opacity: 0.77;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=77)";
+	filter: alpha(opacity=77);
+	position: relative;
+	margin-right: -10000px;
+	left: 135px;
+	background: #FFFFFF url("../images/xiao_qiao_dynasty_warriors_8_by_mayuichan17-d6jhxnp.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u13437
+{
+	z-index: 43;
+	width: 122px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 97px;
+	left: 873px;
+}
+
+#u13527
+{
+	z-index: 49;
+	width: 286px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 73px;
+	left: 155px;
+}
+
+#pu13484
+{
+	width: 0.01px;
+	margin-left: 65px;
+	margin-top: -1336px;
+}
+
+#u13484
+{
+	z-index: 41;
+	width: 870px;
+	height: 131px;
+	background-color: #FFFFFF;
+	opacity: 0.34;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=34)";
+	filter: alpha(opacity=34);
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u13577
+{
+	z-index: 45;
+	width: 122px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 98px;
+	left: 738px;
+}
+
+#u13547
+{
+	z-index: 51;
+	width: 297px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 74px;
+	left: 22px;
+}
+
+#u13591
+{
+	z-index: 55;
+	width: 124px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 99px;
+	left: 610px;
+}
+
+#pu13487
+{
+	width: 0.01px;
+	margin-left: 65px;
+	margin-top: -1159px;
+}
+
+#u13487
+{
+	z-index: 42;
+	width: 870px;
+	height: 131px;
+	background-color: #FFFFFF;
+	opacity: 0.34;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=34)";
+	filter: alpha(opacity=34);
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u13584
+{
+	z-index: 47;
+	width: 122px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 98px;
+	left: 738px;
+}
+
+#u13567
+{
+	z-index: 53;
+	width: 297px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 74px;
+	left: 22px;
+}
+
+#u12565
+{
+	z-index: 4;
+	width: 2002px;
+	position: fixed;
+	bottom: -33px;
+	left: 50%;
+	margin-left: -1001px;
+}
+
+#u12696_img,#u12565_img
+{
+	margin-bottom: -229px;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/chainart.jpg") no-repeat center top fixed;
+	background-size: cover;
+}
+
+body
+{
+	position: relative;
+	min-width: 1000px;
+}
+

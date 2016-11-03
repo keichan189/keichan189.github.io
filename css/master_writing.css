@@ -1,0 +1,58 @@
+#u6176
+{
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #141414;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+}
+
+#u6306-4
+{
+	background-color: transparent;
+	color: #383838;
+	line-height: 22px;
+	font-size: 18px;
+	text-align: center;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+}
+
+#u6284-4
+{
+	background-color: transparent;
+	color: #383838;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+}
+
+#u6465
+{
+	background: transparent url("../images/43016621_p0.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6476-4
+{
+	background-color: transparent;
+	color: #383838;
+	line-height: 22px;
+	font-size: 18px;
+	text-align: center;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+}
+
+#u6306-4:hover p,#u6284-4:hover p,#u6476-4:hover p
+{
+	color: #AFAFAF;
+	visibility: inherit;
+}
+
+#u4915
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+

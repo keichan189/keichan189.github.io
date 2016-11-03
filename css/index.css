@@ -1,0 +1,308 @@
+.version.index /* version checker */
+{
+	color: #000017;
+	background-color: #1D9D8A;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1000px;
+	min-height: 892.9862201156225px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	width: 0.01px;/* should not cover content below */
+}
+
+#pu12696
+{
+	width: 0.01px;
+	padding-bottom: 1885px;
+	margin-left: -491px;
+}
+
+#u12696
+{
+	z-index: 2;
+	width: 2002px;
+	position: fixed;
+	top: 0px;
+	left: 50%;
+	margin-left: -991px;
+}
+
+#u12516
+{
+	z-index: 6;
+	width: 1145px;
+	height: 1885px;
+	position: fixed;
+	top: 0px;
+	left: -83px;
+}
+
+#pu13625
+{
+	width: 0.01px;
+	padding-bottom: 6px;
+	margin-left: -58px;
+	margin-top: -1800px;
+}
+
+#u13625
+{
+	z-index: 8;
+	width: 768px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 53px;
+	left: 293px;
+}
+
+#u13169
+{
+	z-index: 10;
+	width: 337px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 2px;
+}
+
+#u13169_img
+{
+	margin: -36px -12px -36px -10px;
+}
+
+#u13163-4
+{
+	z-index: 12;
+	width: 67px;
+	min-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 346px;
+}
+
+#u13163-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 67px;
+	margin: 66px -10000px 0px 0px;
+}
+
+#u13164-4
+{
+	z-index: 16;
+	width: 118px;
+	min-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 439px;
+}
+
+#u13164-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 118px;
+	margin: 66px -10000px 0px 0px;
+}
+
+#u13168-4
+{
+	z-index: 20;
+	width: 91px;
+	min-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 583px;
+}
+
+#u13168-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 91px;
+	margin: 66px -10000px 0px 0px;
+}
+
+#u13165-4
+{
+	z-index: 24;
+	width: 90px;
+	min-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 699px;
+}
+
+#u13165-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 90px;
+	margin: 66px -10000px 0px 0px;
+}
+
+#u13166-4
+{
+	z-index: 28;
+	width: 112px;
+	min-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 815px;
+}
+
+#u13166-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 112px;
+	margin: 66px -10000px 0px 0px;
+}
+
+#u13167-4
+{
+	z-index: 32;
+	width: 55px;
+	min-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 953px;
+}
+
+#u13167-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 55px;
+	margin: 66px -10000px 0px 0px;
+}
+
+#u13966
+{
+	z-index: 42;
+	width: 171px;
+	background-color: transparent;
+	margin-left: 771px;
+	top: -1624px;
+	margin-bottom: -50px;
+	position: relative;
+}
+
+#u13964
+{
+	z-index: 40;
+	width: 884px;
+	background-color: transparent;
+	margin-left: 58px;
+	top: -1565px;
+	margin-bottom: -7px;
+	position: relative;
+}
+
+#pu13960
+{
+	width: 0.01px;
+	margin-left: -11px;
+	margin-top: -1513px;
+}
+
+#u13960
+{
+	z-index: 36;
+	width: 86px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u13968-4
+{
+	z-index: 44;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 109px;
+}
+
+#u13962
+{
+	z-index: 38;
+	width: 55px;
+	background-color: transparent;
+	margin-left: 5px;
+	top: -1476px;
+	margin-bottom: -55px;
+	position: relative;
+}
+
+#u12519
+{
+	z-index: 7;
+	width: 220px;
+	min-height: 23px;
+	left: -70px;
+	top: -1396px;
+	margin-bottom: -23px;
+	position: relative;
+}
+
+#u12565
+{
+	z-index: 4;
+	width: 2002px;
+	position: fixed;
+	bottom: -33px;
+	left: 50%;
+	margin-left: -1001px;
+}
+
+#u12696_img,#u12565_img
+{
+	margin-bottom: -229px;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/chainart.jpg") no-repeat center top fixed;
+	background-size: cover;
+}
+
+body
+{
+	position: relative;
+	min-width: 1000px;
+}
+

@@ -1,0 +1,171 @@
+.version.borderlands /* version checker */
+{
+	color: #00001A;
+	background-color: #2C2563;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1000px;
+	min-height: 2501px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 529px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u4509
+{
+	z-index: 60;
+	width: 482px;
+	background-color: transparent;
+	position: fixed;
+	top: 1173px;
+	left: -223px;
+}
+
+#u4509_img
+{
+	margin-right: -1px;
+}
+
+#pu4033
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: -62px;
+	margin-left: 73px;
+}
+
+#u4033
+{
+	z-index: 2;
+	width: 845px;
+	height: 2563px;
+	background-color: #F7931E;
+	opacity: 0.92;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=92)";
+	filter: alpha(opacity=92);
+	position: relative;
+	margin-right: -10000px;
+	left: 1px;
+}
+
+#u4013
+{
+	z-index: 3;
+	width: 185px;
+	min-height: 50px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+}
+
+#u4176-4
+{
+	z-index: 4;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 122px;
+	left: 295px;
+}
+
+#u4200
+{
+	z-index: 8;
+	width: 185px;
+	min-height: 50px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 345px;
+}
+
+#u4205
+{
+	z-index: 9;
+	width: 185px;
+	min-height: 50px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 509px;
+}
+
+#u4210
+{
+	z-index: 10;
+	width: 185px;
+	min-height: 50px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 662px;
+}
+
+#u4240
+{
+	z-index: 11;
+	width: 185px;
+	min-height: 50px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 166px;
+}
+
+#u4375-46
+{
+	z-index: 12;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 192px;
+	left: 53px;
+}
+
+#u4469
+{
+	z-index: 58;
+	width: 361px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1558px;
+	left: 525px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 1000px;
+}
+
+

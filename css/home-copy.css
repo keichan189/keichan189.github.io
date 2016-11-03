@@ -1,0 +1,185 @@
+.version.home_copy /* version checker */
+{
+	color: #000017;
+	background-color: #40EA4F;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 4667.800000000001px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-bottom: 652px;
+	width: 0.01px;/* should not cover content below */
+}
+
+#pu1566
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u1566
+{
+	z-index: 2;
+	width: 220px;
+	min-height: 23px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 89px;
+	left: 126px;
+}
+
+#u1926
+{
+	z-index: 3;
+	min-height: 2513px;
+	background-color: #0A0A0A;
+}
+
+#u1926_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 960px;
+	left: -100px;
+}
+
+#u946
+{
+	z-index: 5;
+	width: 1160px;
+	padding-bottom: 2103px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -361px;
+	background: transparent url("../images/tumblr_mk06wgkjys1qgvvtno1_1280.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u902
+{
+	z-index: 8;
+	width: 410px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 361px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u1926-bw
+{
+	z-index: 3;
+	min-height: 2513px;
+}
+
+#pu1010
+{
+	width: 0.01px;
+	padding-bottom: 1470px;
+	margin-left: -80px;
+	margin-top: -1472px;
+}
+
+#u1010
+{
+	z-index: 6;
+	width: 169px;
+	background-color: transparent;
+	position: fixed;
+	top: 2427px;
+	left: -80px;
+}
+
+#u1010_img
+{
+	padding-left: 3px;
+	padding-right: 2px;
+}
+
+#u1913
+{
+	z-index: 12;
+	width: 713px;
+	background-color: transparent;
+	position: fixed;
+	top: 1041px;
+	left: 655px;
+}
+
+#u1891
+{
+	z-index: 4;
+	width: 1160px;
+	padding-bottom: 2369px;
+	left: -100px;
+	position: relative;
+	background: transparent url("../images/lwc9q.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1929
+{
+	z-index: 14;
+	width: 437px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+.js #u1929.ose_pre_init
+{
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+}
+
+#u1881
+{
+	z-index: 10;
+	width: 585px;
+	background-color: transparent;
+	position: fixed;
+	top: 3239px;
+	left: 711px;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/bg_sec5.jpg") repeat center center fixed;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-bottom: 515px;
+}
+
